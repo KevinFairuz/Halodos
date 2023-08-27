@@ -8,7 +8,7 @@ import {
 
 const FiturArtikel = () => {
   return (
-    <Card className="mt-80 left-70 h-40 w-40">
+    <Card className="relative mb-20 bottom-40 left-39 ml-5 h-40 w-40">
       <CardBody>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@ const FiturArtikel = () => {
       <CardFooter className="pt-0">
         <a href="#" className="">
           <Button size="sm" variant="text" className="flex items-center gap-2">
-            Chat Dosen
+            Artikel
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"

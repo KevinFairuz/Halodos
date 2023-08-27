@@ -12,7 +12,7 @@ import './artikel.css';
 
 const Artikel = () => {
   return (
-    <div className="artikel container w-full items-center justify-center lg:container min-h-100%">
+    <div className="artikel container w-full items-center justify-center pb-20 lg:container min-h-100%">
       <div className="relative h-50 w-50 top-10 ">
         <div className="absolute inset-x-0 left-70 h-16 items-center">
           <h1 className="text-lg">Artikel</h1>
